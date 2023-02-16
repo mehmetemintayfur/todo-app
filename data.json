@@ -1,0 +1,13 @@
+[
+    {
+      "id": "1",
+      "name": "React öğren",
+      "check": false
+    },
+    {
+      "id":"2",
+      "name": "Spora git",
+      "check": false
+    }
+   
+  ]
